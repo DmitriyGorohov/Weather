@@ -19,7 +19,7 @@ class ViewController: UIViewController {
                     self.weatherLabel.text = "\(weather.currentWeather.temperature) °"
                 }
             } else {
-                print("fails")
+                print("fails asdasdsad dsadsad")
             }
         }
         task.resume()
